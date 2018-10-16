@@ -1,0 +1,48 @@
+  
+  header {
+    background: 
+      url(../images/crystalball.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 50% 50%; 
+  }
+
+  h3 {
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 180px;
+    display: inline-block;
+    vertical-align: bottom;
+    bottom: 0;
+    text-align: center;
+
+}
+
+p {
+    font-family: 'Faster One', cursive;
+    color: purple;
+
+}
+  
+body { 
+    
+    text-align:center;
+    
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    border-top: 25px;
+    border-top-color: #4aaaa5;
+    font-size: 25px;
+ }
+ 
+  p {
+    margin: 0;
+    font-size: 1.3rem;
+  }
